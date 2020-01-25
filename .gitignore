@@ -10,5 +10,8 @@ npm-debug.*
 web-build/
 web-report/
 
+# credentials
+credentials.js
+
 # macOS
 .DS_Store
